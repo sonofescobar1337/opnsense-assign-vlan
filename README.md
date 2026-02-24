@@ -8,3 +8,5 @@ gini dong
 curl -k -u "Kontolo:Bapaklo" -H "Content-Type: application/json" -X POST "https://opnsenseip/api/interfaces/assign_settings/add_item" -d "{\"assign\":{\"device\":\"vlan02\",\"description\":\"tenant3020\"}}"
 ```
 kapok belajar ini cuma yaudah emang butuh gimana lagi awkowkowkoww
+
+`note: Taro file nya di dir ini ye /usr/local/opnsense/mvc/app/controllers/OPNsense/Interfaces/Api `
